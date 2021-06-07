@@ -14,7 +14,7 @@ p,li{
     text-align:justify;
     line-height: 1.5;
     letter-spacing: 1px;
-    color: rgb(127, 127, 156);
+    color: rgb(156, 138, 127);
 
 }
 li{
@@ -47,4 +47,10 @@ body{
     background-color: rgb(4, 35, 82);
     padding: 40px;
     border-radius: 10px;
+}
+.MENU{
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    color: rgb(175, 79, 23);
 }
